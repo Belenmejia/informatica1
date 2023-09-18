@@ -10,3 +10,5 @@ TAREA 1.2
 TAREA 1.3
 <img src="![partes del celular](https://github.com/Belenmejia/informatica1/assets/142844432/208ffb96-cfcc-45c6-a986-352c1d5e9627)"
 <img src="![partesdelacomputadora](https://github.com/Belenmejia/informatica1/assets/142844432/077b81d1-d337-420f-ab8d-871e23b9a9fc)"
+<img src="![prtcom](https://github.com/Belenmejia/informatica1/assets/142844432/0e91dfb8-e88f-47c5-92cc-86aa933891fe)"
+<img src="![prtcel](https://github.com/Belenmejia/informatica1/assets/142844432/238fc0d5-0805-4db8-b739-68c6f2ba0fee)"
