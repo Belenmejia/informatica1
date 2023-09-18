@@ -7,3 +7,6 @@ TAREA 1.2
 <img src="![john](https://github.com/Belenmejia/informatica1/assets/142844432/e79ded23-adc4-456a-a9f2-fb890b198490)"
 <img src="![TURING](https://github.com/Belenmejia/informatica1/assets/142844432/f8f64c01-bc99-4d6d-a0a0-6b28ec21e769)"
 <img src="![JOHN](https://github.com/Belenmejia/informatica1/assets/142844432/bd8d05e9-ec25-4358-acd6-8c6c2136cd54)"
+TAREA 1.3
+<img src="![partes del celular](https://github.com/Belenmejia/informatica1/assets/142844432/208ffb96-cfcc-45c6-a986-352c1d5e9627)"
+<img src="![partesdelacomputadora](https://github.com/Belenmejia/informatica1/assets/142844432/077b81d1-d337-420f-ab8d-871e23b9a9fc)"
