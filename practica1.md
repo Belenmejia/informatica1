@@ -1,1 +1,1 @@
-<img src="imagenas/alantu.jpg">
+<img src="imagenas/alantu.jpeg">
