@@ -1,4 +1,4 @@
-![descarga (2)](https://github.com/Belenmejia/informatica1/assets/142844432/7a5ae088-aca7-41af-8114-51dd6249c5a6)# informatica1
+# informatica1
 -***LICENCIAMIENTO DE SOFTWARE***
 
 Investigue los siguientes conceptos basicos de licenciamiento de software
@@ -48,9 +48,13 @@ software con código fuente que cualquiera puede inspeccionar, modificar y mejor
 
 -***11°Open source initiative**
 *la osi a aprobado mucgas licencias de codigoabierto populares
+
+
 -***12° Software libre**
 pueden ser descargadas, generalmente gratuitamente, a través de Internet. 
 *sistema operativo gnu es un ejemplo de software libre.
+
+
 -***13°La licencia GPL y la Free software foundation**
 El proyect GNU utiliza lalicencia GPL y es respaldado por la free sooftware foundation
 
