@@ -15,6 +15,12 @@ es la agrupacion de 8 bits,un patroncon una longitud de 8 bits, un patron con un
 En la tabla siguiente se muestran los multiplos de los bytes los cualesnos facilitan hacer referencia a una gran cantidad de bytes contenidos en un archivo o dispositivo de almacenamiento, asi como tambien para cuantificar la capacidad de almacenamiento en la memoria principal.
 img src=" ![bytes](https://github.com/Belenmejia/informatica1/assets/142844432/bcc20ff0-0276-4713-bc32-c77a92b18c97)"
 
+-***KIlo byte(kb)**
+
+Es una unidad estandar que comprende el tamañode un archivo o una  memoria de datos.La base de esta unidadnde medida son los bytes, que a su vez estan formados por bites.Un bite se compone de 8 bites, siendo el bit la unidad de informacion mas pequeña en la informatica.
+
+img src="![Potencias_Binarias_2](https://github.com/Belenmejia/informatica1/assets/142844432/67c68b0e-7fb9-431f-beff-8ea780534a02)"
+
 
 -***DATO:***
 se refiere a una representacion simbolica o numerica de informacion.Los datos pueden ser cualquier tipo de informacion que se almacena y procesa en una computadora, como numeros texto, imagenes ,sonidos,etc.
@@ -24,6 +30,7 @@ img src="![datos](https://github.com/Belenmejia/informatica1/assets/142844432/82
 
 -***Dato Numerico**
 Los programados utilizados en arquitectura o en ingenieria que procesa una computadora son de tipo numerico, aritmetico, algebraico o trigonometrico:por ejemplo, es posible la resolucion de raices en una ecuacion.
+
 
 
 -***Dato Alfanumerico** 
@@ -45,8 +52,7 @@ img src="![Sistema-numerico](https://github.com/Belenmejia/informatica1/assets/1
 -sistema binario
 -sistema hexadesimal
 -sistema base-n
-img src="![Sistema-numerico](https://github.com/Belenmejia/informatica1/assets/142844432/3a5ad264-6e52-49a3-b3f2-09681fcf871e)"
-img src="![bytes](https://github.com/Belenmejia/informatica1/assets/142844432/f4470642-a842-492f-807d-89290824cf6f)"
+
 
 
 
