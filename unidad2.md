@@ -2,11 +2,14 @@
 #CONCEPTOS BASICOS DE SOFTWARE
 ---
 -***INVESTIGUE LA DEFINICION FORMAL DE LOS SIGUIENTES CONCEPTOSBASICOS DE SOFTWARE**
-**BIT:*
+
+
+**BIT:**
 Es la minima pulsacion electronica que recibe una computadora (bit,binary digit:digito binario); es decir es la minima cantidad de informacion (datos)que recibe una computadora y puede ser ya sea 0 o 1
 y representa el estado de un dispositivo que puede tomar uno de dos estados .Un foco puede estar encendido .El significado o representacion es la siguiente :1 = encendido y 0= apagado.Un interruptor electronico puede representar un bit.Actualmente las computadoras utilizan varios dispositivos binariosde dos estados para almacenar datos.
 
 ---
+
 -***Byte y unidad derivada:***
 es la agrupacion de 8 bits,un patroncon una longitud de 8 bits, un patron con una longitud se llama byte.Este termino tambien se a utilizado para medir el tamaño de la memoria de una memoria o de otros dispositivos de almacenamiento y se abrevia con la letra B .Laa memoria de una computadora que puede almacenar  8 millones de bits de informacion es una memoria de 1 millon de bytes.
 En la tabla siguiente se muestran los multiplos de los bytes los cualesnos facilitan hacer referencia a una gran cantidad de bytes contenidos en un archivo o dispositivo de almacenamiento, asi como tambien para cuantificar la capacidad de almacenamiento en la memoria principal.
