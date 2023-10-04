@@ -12,10 +12,3 @@ TAREA 1.3
 <img src="![partesdelacomputadora](https://github.com/Belenmejia/informatica1/assets/142844432/077b81d1-d337-420f-ab8d-871e23b9a9fc)"
 <img src="![prtcom](https://github.com/Belenmejia/informatica1/assets/142844432/0e91dfb8-e88f-47c5-92cc-86aa933891fe)"
 <img src="![prtcel](https://github.com/Belenmejia/informatica1/assets/142844432/238fc0d5-0805-4db8-b739-68c6f2ba0fee)"
-°PARTES DE MI COMPUTADORA
-*cpu ryze 
-2 memorias Ram de 16gb 
-1disco duro hdd de 1 terabyte
-un disco ssd kingston de 250gb
-una tarjeta grafica amd
-gabinete normal
