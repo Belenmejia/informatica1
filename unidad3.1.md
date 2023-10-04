@@ -16,6 +16,7 @@ Las patentes de software pueden definirse como monopolios de 20 años que se con
 El dominio público lo constituyen todas las obras que no están protegidas por el derecho de autor y que por lo tanto pueden ser utilizadas sin permiso o sin tener que pagar al autor original.
 *el software de dominio publico se puede utilizar y distribuir sin restriccion legal.
 
+
 -**4°Distribuccion de software**
 conjunto de software específico (o una colección de múltiple software, incluso un sistema operativo), ya compilado y configurado. Generalmente pueden tomar formas de licencia, de entre la más usada es la licencia GPL u open source.
 *una empresa distribuye su  nuevo software a traves de sus sitios web para que los usuarios lo descargen.
@@ -26,6 +27,8 @@ software comercial que se distribuye gratuitamente a los usuarios, ya sea en un 
 6° freeware
 es un software con derechos de autor al que se puede acceder sin costo alguno y se puede usar de manera ilimitada.
 *un navegador web se puede descargar y usar sin costo,
+
+
 -***7°Copyright y copylett**
 modalidad de protección del conocimiento científico. 
 
@@ -33,18 +36,24 @@ modalidad de protección del conocimiento científico.
 término que se utiliza en el ámbito informático (y se aplica de manera análoga a la creación literaria y artística) para designar el tipo de protección jurídica que confieren determinadas licencias que garant
 izan el derecho de cualquier usuario.
 
+
 -***8°Licenciamiento  de software**
 delicencia le explica al usuario final cómo puede utilizar el software, cuáles son las restricciones, los tiempos de uso, si tiene la capacidad de modificarlo o redistribuirlo y las tarifas que se deben pagar.
 * una licencia de software puede especificarcuantas computadoras pueden usar el programa.
   
+
+
 -***9° Software privativo**
 
  En este software, la persona física o jurídica (compañía, empresa, universidad, etc.), que posee los derechos de explotación sobre el software, tiene la posibilidad de controlar y restringir los derechos del usuario sobre el programa limitando una o varias de las cuatro libertades.
  *Microsoft office es un ejemplo de software privativo.
 
+
+
 -***10°Software abierto o de codigo abierto**
 software con código fuente que cualquiera puede inspeccionar, modificar y mejorar.
 *linux es un sistema operativo de codigo abierto.
+
 
 -***11°Open source initiative**
 *la osi a aprobado mucgas licencias de codigoabierto populares
@@ -55,8 +64,11 @@ pueden ser descargadas, generalmente gratuitamente, a través de Internet.
 *sistema operativo gnu es un ejemplo de software libre.
 
 
+
+
 -***13°La licencia GPL y la Free software foundation**
 El proyect GNU utiliza lalicencia GPL y es respaldado por la free sooftware foundation
+
 
 -**BILL GATES**
 
@@ -67,11 +79,15 @@ En 1980 Bill Gates acordó con IBM la creación de un sistema operativo adaptado
 A medida que los programas de Microsoft invadían el mercado, nuevos fabricantes entraron en el negocio de la informática: algunos con éxito como Dell, Compaq y Toshiba, y otros fracasaron como Amstrad. Gates necesitaba dinero para seguirles el ritmo y ofreció a IBM la tercera parte de Microsoft, pero el gigante rechazó la oferta.El binomio entre PC y MS-DOS dominó el mercado. Las empresas iniciaron una dura competición por la reducción de costes. No obstante, Microsoft se posicionó en la cumbre no sólo como distribuidora de sistemas operativos sino, también de programas. Diseñaron programas específicos como un procesador de textos, una hoja de cálculo o juegos sobre la base del sistema operativo. Como el MS-DOS era el más extendido, la competencia acabó diseñando también programas para este sistema operativo, con lo que se propició un proceso de retroalimentación favorable a Microsoft. En poco tiempo, Microsoft se convirtió en el estándar de la industria y Gates consiguió salir en la portada de Time por primera vez(saldría seis veces más).
 img src="![descarga (1)](https://github.com/Belenmejia/informatica1/assets/142844432/d3790703-8b46-42eb-af83-0af718db34b1)"
 
+
+
 -***ERIC S. RAYMOND**
 Nacido en Boston, Massachusetts, EEUU el 4 de diciembre de 1957, Eric Steven Raymond es una de las principales figuras del movimiento del software libre. Quizá su mayor aporte sea el texto ‘La Catedral y el Bazar’, en el cual señala las ventajas de ciertas formas sociales de desarrollar software con respecto a formas más individualistas.
 
 Es responsable actualmente de The New Hacker‘s Dictionary, conocido como ‘Jargon File’, en el cual se ubica desde el punto de vista de un historiador de la cultura hacker.Fue uno de los fundadores de la OSI: Open Source Initiative (Iniciativa de Código Abierto), tomando el rol de vocero de este movimiento para los medios de prensa, los negocios y la cultura de masas. Eric -junto a otros- explica en una entrevista para la película Revolution OS que la OSI surgió básicamente porque los empresarios eran reticentes a la idea de Software Libre, que en inglés se dice ‘Free Software’, provocando el doble significado de ‘Software Gratis’ y ‘Software Libre’, por lo cual la gente de negocios lo veía como una cosa infantil o como algo de lo cual nunca se podría hacer justamente dinero, porque era ‘gratis’. Entonces al hablar de Código Abierto, lograron evitar el malentendido, pero también borraron toda referencia a lo fundamental: la libertad.
 img rsc=![descarga (2)](https://github.com/Belenmejia/informatica1/assets/142844432/b19ce017-c5d0-440d-8264-926b37a630e3)"
+
+
 
 -***RICHARDSTALLMAN**
 Richard Stallman (16 de marzo de 1953) programado y figura destacada del movimiento por el software libre en el mundo. Nació en Manhattan, Nueva York, Estados Unidos. Es conocido por establecer el movimiento del software libre, una alternativa al desarrollo y distribución del software privativo. Fue el responsable de crear la definición del método de Copyleft, busca licenciar software de uso libre para la comunidad. Estudió física en la Universidad de Harvard. Luego se desempeñó como hacker del laboratorio de inteligencia artificial (IA) del MIT.
