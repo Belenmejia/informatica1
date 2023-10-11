@@ -13,9 +13,10 @@ TAREA 1.3
 <img src="![prtcom](https://github.com/Belenmejia/informatica1/assets/142844432/0e91dfb8-e88f-47c5-92cc-86aa933891fe)"
 <img src="![prtcel](https://github.com/Belenmejia/informatica1/assets/142844432/238fc0d5-0805-4db8-b739-68c6f2ba0fee)"
 
---------
-_**VIDEO** "  
+------
 
 
-"Uploading Video de WhatsApp 2023-10-11 a las 12.01.39_8f178a96.mp4…"
+
+
+
 
