@@ -56,6 +56,9 @@ img src="![Sistema-numerico](https://github.com/Belenmejia/informatica1/assets/1
 
 
 
+![927c00ffd882808ed51ce84ce369f3dd](https://github.com/Belenmejia/informatica1/assets/142844432/9052c854-13ef-4c1a-ae24-b9a12c14ee63)
+
+
 
 
 
